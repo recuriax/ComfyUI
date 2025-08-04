@@ -8,6 +8,7 @@ dependencies = [
     "aiohttp>=3.11.8",
     "alembic>=1.16.4",
     "av>=14.2.0",
+    "comfy-cli>=1.4.1",
     "comfyui-embedded-docs==0.2.4",
     "comfyui-frontend-package==1.23.4",
     "comfyui-workflow-templates==0.1.47",
